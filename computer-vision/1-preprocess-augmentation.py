@@ -1,0 +1,1 @@
+# Understand how ImageDataGenerator labels images based on the directory structure
